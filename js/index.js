@@ -69,7 +69,7 @@ function initSearchPanel() {
 
   if (!toggle || !panel || !input) return;
 
-  const popular = ['무선이어폰', '스마트워치', '노트북', '태블릿', '키보드'];
+  const popular = ['레나베어', '레나버니', '의상', '키링', '세트'];
 
   const open = () => {
     document.body.classList.add('search-open');
